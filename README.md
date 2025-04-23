@@ -1,2 +1,33 @@
-# Emily_Almeida_Portfolio
-This is a portfolio for Mr. John
+# Political Analyst
+
+### About Me 
+
+Hello! I am an experienced Political Scientist and Political Science professional with over 2 years of proven expertise in politics. 
+
+With skills in critical thinking, problem solving, teamwork, and bilingualism, I am able to act to improve my community and achieve legal analysis. I am adept at using Excel, Python 3, and Microsoft Access.  
+
+My [Adjective] skill set, commitment to [Value/Quality], and passion for [Interest] me as a valuable asset.  In my spare time, I like to [Hobby 1] and [Hobby 2]. 
+
+You can find me on [LinkedIn Hyperlink](https://google.com), [Social Media 1] or [Social Media 2].
+
+
+
+### Education 
+BSc in [Political Science and Spanish]
+Loyola University, MD
+
+### Projects
+
+#### Personality Test Application
+ - image
+ - Report summary of the project 
+
+***
+#### Excel Side Hustle Business Simulation
+ - image
+ - write up
+
+***
+#### Using Queries to Make Decisions
+ - image
+ - write up
