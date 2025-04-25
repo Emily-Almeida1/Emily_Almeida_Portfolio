@@ -19,8 +19,12 @@ Loyola University, MD
 ### Projects
 
 #### Personality Test Application
+
  - image
- - Report summary of the project 
+ 
+**Project Summary**
+
+The “Which Disney princess” personality test is a test that asks ten questions with three different alternatives seeking to collect the answers from the user and then calculate them based on a number-letter system and give the user a corresponding princess. 
 
 ***
 #### Excel Side Hustle Business Simulation
